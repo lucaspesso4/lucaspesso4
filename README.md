@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋🏻 Hi there! 
 
-<!--
-**lucaspesso4/lucaspesso4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves creating things that simplify your life, whether they're web applications, mobile or anything else (after all, tech is just a means to an end).
 
-Here are some ideas to get you started:
+Currently work as mid-level software developer at [Toro Investimentos](https://www.toroinvestimentos.com.br/) (Mobills). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://app.daily.dev/lucaspesso4"><img align="right" src="https://api.daily.dev/devcards/v2/z6mFGabFC.png?type=default&r=3gc" width="240" alt="lucaspesso4 dailydev card"/></a>
+
+#### 🤖 Techs
+- [Typescript](https://typescriptlang.org) ([any](https://nodejs.org) [javascript](https://deno.land) [runtime](https://bun.sh)) > [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
+- [Go](https://go.dev/) > [Python](https://python.org) > any other.
+
+#### 🛰️ Projects
+- [Latest work](https://www.mobills.com.br)
+- [Experiments & learning repositories](https://github.com/lucaspesso4)
+
+#### 🍃 Web lounge
+- [dev.to](https://dev.to/lucaspesso4) - Some articles that i've wrote.
+
+###### 🧑🏻‍💻 Side-projects
+- [QReate code](https://lucaspesso4.github.io/qreate-code-web/) - Simple qrcode creation.
+
+> "I have no special talent. I'm only passionately curious." - Albert Einstein
+
+###### Creating things and drinking coffee since 2018
