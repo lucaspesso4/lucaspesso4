@@ -4,8 +4,6 @@ I'm a developer who loves creating things that simplify your life, whether they'
 
 Currently work as mid-level software developer at [Toro Investimentos](https://www.toroinvestimentos.com.br/) (Mobills). 
 
-<a href="https://app.daily.dev/lucaspesso4"><img align="right" src="https://api.daily.dev/devcards/v2/z6mFGabFC.png?type=default&r=3gc" width="240" alt="lucaspesso4 dailydev card"/></a>
-
 #### 🤖 Techs
 - [Typescript](https://typescriptlang.org) ([any](https://nodejs.org) [javascript](https://deno.land) [runtime](https://bun.sh)) > [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
 - [Go](https://go.dev/) > [Python](https://python.org) > any other.
@@ -18,7 +16,7 @@ Currently work as mid-level software developer at [Toro Investimentos](https://w
 - [dev.to](https://dev.to/lucaspesso4) - Some articles that i've wrote.
 
 ###### 🧑🏻‍💻 Side-projects
-- [QReate code](https://lucaspesso4.github.io/qreate-code-web/) - Simple qrcode creation.
+- [QReate code](https://lucaspesso4.github.io/qreate-code/) - Simple qrcode creation.
 
 > "I have no special talent. I'm only passionately curious." - Albert Einstein
 
