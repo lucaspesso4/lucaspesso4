@@ -2,7 +2,7 @@
 
 I'm a developer who loves creating things that simplify your life, whether they're web applications, mobile or anything else (after all, tech is just a means to an end).
 
-Currently work as mid-level software developer at [Toro Investimentos](https://www.toroinvestimentos.com.br/) (Mobills). 
+Currently work as senior software engineer at Santander Brazil. 
 
 #### 🤖 Techs
 - [Typescript](https://typescriptlang.org) ([any](https://nodejs.org) [javascript](https://deno.land) [runtime](https://bun.sh)) > [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
